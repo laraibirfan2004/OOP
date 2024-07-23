@@ -1,1 +1,1 @@
-# OOP
+This program defines three classes: person, teacher, and student. The person class is the parent class of teacher and student classes. The program also has a static count variable that counts the number of instances of each class. The program then creates instances of each class using both parameterized and non-parameterized constructors and displays the count of each class before and after each instance creation.
